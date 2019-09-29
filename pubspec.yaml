@@ -1,0 +1,3 @@
+name: KDC
+dependencies:
+  encrypt: ^3.3.1
